@@ -1,7 +1,9 @@
 
-# Hyperterm-crosshair
+# hyperterm-crosshair
 
 Extension for crosshair—vertical and horizontal line highlight—in hyperterm
+
+![Image of hyperterm-crosshair](screenshot.png)
 
 ## How to use
 
