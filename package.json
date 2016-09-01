@@ -1,0 +1,14 @@
+{
+  "name": "crosshair",
+  "version": "0.0.1",
+  "keywords": [
+    "hyperterm",
+    "crosshair",
+    "cursor",
+    "rulerz",
+    "CursorRuler"
+  ],
+  "description": "Extension for crosshair—vertical and horizontal line highlight—in hyperterm",
+  "dependencies": {
+  }
+}
