@@ -11,7 +11,8 @@ Install [HyperTerm](https://hyperterm.org) and add `hyperterm-crosshair`
 to `plugins` in `~/.hyperterm.js`.
 
 You can also add a key to the config object in `hyperterm.js`
-to control the opacity of the highlight.
+to control the color of the highlight.
+
 
 ```
 config: {
@@ -20,7 +21,8 @@ config: {
 
   // hyperterm-crosshair settings
   hypertermCrosshair: {
-    opacity: 0.2,
+    // You can use any valid CSS color string
+    color: 'rgba(119, 172, 217, 0.2)',
   }
 }
 ```
