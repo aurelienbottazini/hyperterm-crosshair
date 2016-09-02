@@ -22,6 +22,7 @@ ${config.termCSS || ''}
   width: 200vw;
   margin-left: -100vw;
   height: 100%;
+  pointer-events: none;
 }
 .cursor-node:after {
   content: '';
@@ -30,6 +31,7 @@ ${config.termCSS || ''}
   width: 100%;
   height: 200vh;
   margin-top: -100vh;
+  pointer-events: none;
 }`,
   });
 };

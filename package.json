@@ -1,6 +1,6 @@
 {
   "name": "hyperterm-crosshair",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Extension for crosshair—vertical and horizontal line highlight—in hyperterm",
   "main": "index.js",
   "dependencies": {
