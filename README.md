@@ -1,6 +1,12 @@
 
 # hyperterm-crosshair
 
+⚠️⚠️⚠️
+**This extention is for hyperterm version 2**
+
+**It is not compatible with hyperterm version 3 and above**
+⚠️⚠️⚠️
+
 Extension for crosshair—vertical and horizontal line highlight—in hyperterm
 
 ![Image of hyperterm-crosshair](screenshot.png)
